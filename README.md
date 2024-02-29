@@ -1,4 +1,4 @@
-# Electric Vehicle Population Analysis in the US
+# SQL Electric Vehicle Population Analysis in the US
 
 ## Project Overview
 
